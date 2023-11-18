@@ -1,0 +1,23 @@
+
+        
+        /*
+        Ejercicio 1:
+        Crear un vector que contenga el monto de la facturación total de
+        una empresa durante un año (de enero a diciembre).
+        Informar:
+        - la máxima facturación
+        - la facturación más baja
+        - el promedio de facturación
+        */
+
+        /* 
+        Ejercicio 2:
+        Crear un vector de enteros de 10 posiciones
+        Pedirle al usuario que cargue 10 valores para ese vector
+        Mostrar con foreach el listado de números que ingresó.
+        Mostrar la suma de todos los elementos
+        Mostrar el promedio
+        Indicar cuántos números pares y cuántos impares hay
+        Indicar cuántas veces se repitió el número 2
+        Resolver todo dentro de un método que sea invocado dentro del main.
+        */
